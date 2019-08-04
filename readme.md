@@ -1,4 +1,4 @@
-### DevOPs
+### DevOps
 
 Projeto prático -> Publicando imagem Laravel
 
